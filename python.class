@@ -1,4 +1,4 @@
-class Cat (Mammal):
+class Cat (animal):
     def be_annoying(self):
         print("annoying")
 
